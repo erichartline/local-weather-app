@@ -14,5 +14,6 @@ Features:
 Future ideas:
 * View more detailed forecast
 * Manually select location
+* Find even more accurate location API
 
 Original freeCodeCamp challenge: [https://www.freecodecamp.com/challenges/show-the-local-weather](https://www.freecodecamp.com/challenges/show-the-local-weather)
