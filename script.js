@@ -6,7 +6,7 @@ $(document).ready(function() {
       skycons.play();
 
       // API request to gather geographic data
-      $.getJSON("https://ip-api.com/json/?callback=?", function(geo) {
+      $.getJSON("http://ip-api.com/json/?callback=?", function(geo) {
         var lat = geo.lat;
         var lon = geo.lon;
         var city = geo.city;
